@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: 
+}
+
+    h2 {
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 500px;
+    color: antiquewhite;
+    }
+img{
+    width: 1300px;
+    height: 900px;
+}
+#pao{
+margin-top: -5%;
+margin-left: -80%;
+color: black;
+
+}
